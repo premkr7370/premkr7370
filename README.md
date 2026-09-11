@@ -15,10 +15,10 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premkr7370&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premkr7370&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premkr7370&theme=dark&hide_border=true&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premkr7370&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&v=2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premkr7370&layout=compact&theme=dark&hide_border=true&v=2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
