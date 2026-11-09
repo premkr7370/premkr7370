@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Prem Kumar - Full Stack Developer | Agentic AI Explorer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Prem Kumar — Full Stack Developer | Software Engineer | Agentic AI Explorer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05060f"/>
@@ -84,6 +84,6 @@
   <!-- title -->
   <text class="sans" x="600" y="168" text-anchor="middle" font-size="84" font-weight="800" letter-spacing="10" fill="url(#title)" filter="url(#glow)">PREM KUMAR</text>
   <rect x="470" y="190" width="260" height="3" rx="1.5" fill="url(#bar)" class="pulse"/>
-  <text class="mono" x="600" y="232" text-anchor="middle" font-size="22" letter-spacing="3" fill="#dbe4ff">FULL STACK DEVELOPER <tspan fill="#a855f7">|</tspan> AGENTIC AI EXPLORER</text>
+  <text class="mono" x="600" y="228" text-anchor="middle" font-size="18" letter-spacing="3" fill="#dbe4ff">FULL STACK DEVELOPER <tspan fill="#a855f7">|</tspan> SOFTWARE ENGINEER <tspan fill="#22d3ee">|</tspan> AGENTIC AI EXPLORER</text>
   <text class="mono" x="600" y="268" text-anchor="middle" font-size="15" letter-spacing="2" fill="#7f8bb3">Building the Future, One Line of Code at a Time<tspan class="cursor" fill="#22d3ee">_</tspan></text>
 </svg>
