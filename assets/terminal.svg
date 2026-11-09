@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="100%" role="img" aria-label="Animated terminal showing developer profile">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a1a"/>
+      <stop offset="1" stop-color="#100a2a"/>
+    </linearGradient>
+    <linearGradient id="tborder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#4d8dff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace; font-size: 16px; }
+    .p { fill: #a855f7; } .c { fill: #dbe4ff; } .g { fill: #22d3ee; } .b { fill: #60a5fa; } .d { fill: #7f8bb3; } .y { fill: #c084fc; }
+    @keyframes show { 0%,3% { opacity: 0; } 6%,90% { opacity: 1; } 96%,100% { opacity: 0; } }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    .r { opacity: 0; animation: show 14s infinite; }
+    .r1 { animation-delay: 0s; } .r2 { animation-delay: .9s; } .r3 { animation-delay: 1.8s; }
+    .r4 { animation-delay: 2.7s; } .r5 { animation-delay: 3.6s; } .r6 { animation-delay: 4.5s; }
+    .r7 { animation-delay: 5.4s; } .r8 { animation-delay: 6.3s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+  </style>
+
+  <rect x="2" y="2" width="816" height="316" rx="14" fill="url(#tbg)" stroke="url(#tborder)" stroke-width="2"/>
+  <path d="M2 16 a14 14 0 0 1 14 -14 H804 a14 14 0 0 1 14 14 V44 H2 Z" fill="#0d1130"/>
+  <circle cx="28" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="23" r="6" fill="#27c93f"/>
+  <text class="mono d" x="410" y="28" text-anchor="middle" font-size="13">premkr7370 ~ profile</text>
+
+  <g class="mono">
+    <g class="r r1"><text x="28" y="82"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text></g>
+    <g class="r r2"><text x="28" y="108"><tspan class="g">Prem Kumar</tspan> <tspan class="d">// Full Stack Developer</tspan></text></g>
+    <g class="r r3"><text x="28" y="144"><tspan class="p">$</tspan> <tspan class="c">cat stack.json</tspan></text></g>
+    <g class="r r4"><text x="28" y="170"><tspan class="d">{</tspan> <tspan class="y">"frontend"</tspan><tspan class="d">:</tspan> <tspan class="b">["React", "Next.js"]</tspan><tspan class="d">,</tspan></text></g>
+    <g class="r r5"><text x="28" y="194"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"backend"</tspan><tspan class="d">:</tspan> <tspan class="b">["Node.js", "Express"]</tspan><tspan class="d">,</tspan></text></g>
+    <g class="r r6"><text x="28" y="218"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"database"</tspan><tspan class="d">:</tspan> <tspan class="b">["MongoDB", "PostgreSQL"]</tspan> <tspan class="d">}</tspan></text></g>
+    <g class="r r7"><text x="28" y="258"><tspan class="p">$</tspan> <tspan class="c">status --now</tspan></text></g>
+    <g class="r r8"><text x="28" y="284"><tspan class="g">&#9679;</tspan> <tspan class="c">building AI Automation Platform</tspan> <tspan class="d">[in development]</tspan><tspan class="cursor g"> _</tspan></text></g>
+  </g>
+</svg>
