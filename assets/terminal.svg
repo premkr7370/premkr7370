@@ -31,12 +31,12 @@
 
   <g class="mono">
     <g class="r r1"><text x="28" y="82"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text></g>
-    <g class="r r2"><text x="28" y="108"><tspan class="g">Prem Kumar</tspan> <tspan class="d">// Full Stack Developer</tspan></text></g>
+    <g class="r r2"><text x="28" y="108"><tspan class="g">Prem Kumar</tspan> <tspan class="d">// Full Stack AI Developer</tspan></text></g>
     <g class="r r3"><text x="28" y="144"><tspan class="p">$</tspan> <tspan class="c">cat stack.json</tspan></text></g>
-    <g class="r r4"><text x="28" y="170"><tspan class="d">{</tspan> <tspan class="y">"frontend"</tspan><tspan class="d">:</tspan> <tspan class="b">["React", "Next.js"]</tspan><tspan class="d">,</tspan></text></g>
-    <g class="r r5"><text x="28" y="194"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"backend"</tspan><tspan class="d">:</tspan> <tspan class="b">["Node.js", "Express"]</tspan><tspan class="d">,</tspan></text></g>
-    <g class="r r6"><text x="28" y="218"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"database"</tspan><tspan class="d">:</tspan> <tspan class="b">["MongoDB", "PostgreSQL"]</tspan> <tspan class="d">}</tspan></text></g>
+    <g class="r r4"><text x="28" y="170"><tspan class="d">{</tspan> <tspan class="y">"frontend"</tspan><tspan class="d">:</tspan> <tspan class="b">["React", "Next.js", "TypeScript"]</tspan><tspan class="d">,</tspan></text></g>
+    <g class="r r5"><text x="28" y="194"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"backend"</tspan><tspan class="d">:</tspan> <tspan class="b">["Node.js", "Express", "REST APIs"]</tspan><tspan class="d">,</tspan></text></g>
+    <g class="r r6"><text x="28" y="218"><tspan class="d">&#160;&#160;</tspan><tspan class="y">"database"</tspan><tspan class="d">:</tspan> <tspan class="b">["MongoDB", "PostgreSQL", "Redis"]</tspan> <tspan class="d">}</tspan></text></g>
     <g class="r r7"><text x="28" y="258"><tspan class="p">$</tspan> <tspan class="c">status --now</tspan></text></g>
-    <g class="r r8"><text x="28" y="284"><tspan class="g">&#9679;</tspan> <tspan class="c">building AI Automation Platform</tspan> <tspan class="d">[in development]</tspan><tspan class="cursor g"> _</tspan></text></g>
+    <g class="r r8"><text x="28" y="284"><tspan class="g">&#9679;</tspan> <tspan class="c">building AI-powered full stack applications</tspan> <tspan class="d">[open to work]</tspan><tspan class="cursor g"> _</tspan></text></g>
   </g>
 </svg>
