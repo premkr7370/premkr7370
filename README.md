@@ -248,7 +248,7 @@
 
 <br/>
 
-<!-- ─── PROJECT 4: ZeeCare ─── -->
+<!-- ─── PROJECT 4: ZeeCare ─── 
 
 <table>
   <tr>
@@ -277,8 +277,8 @@
 </table>
 
 <br/>
-
-<!-- ─── PROJECT 5: Workbench – RBAC Studio ─── -->
+-->
+<!-- ─── PROJECT 5: Workbench – RBAC Studio ─── 
 
 <table>
   <tr>
@@ -301,7 +301,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <p align="center">
   <br/>
   <a href="https://github.com/premkr7370?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-0A0F2C?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F2C&color=A855F7" alt="Browse repositories" /></a>
@@ -338,7 +338,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 09 ─ CONTRIBUTION SNAKE                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ 
 
 ## Contribution Snake
 
@@ -353,7 +353,7 @@
 <br/>
 
 <img src="./assets/section-divider.svg" alt="" width="100%" />
-
+-->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 10 ─ PROBLEM SOLVING                                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -368,7 +368,7 @@
         <img src="https://img.shields.io/badge/LeetCode-260%2B_problems-0A0F2C?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0F2C&color=A855F7" alt="LeetCode 260+ problems" />
       </a>
       <br/><br/>
-      <img src="https://leetcard.jacoblin.cool/averageCoder7370?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="95%" />
+      <!-- <img src="https://leetcard.jacoblin.cool/averageCoder7370?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="95%" /> -->
     </td>
     <td align="center" width="50%">
       <a href="https://www.geeksforgeeks.org/profile/premkrma">
@@ -401,7 +401,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 12 ─ MUSIC                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ 
 
 <div align="center">
   <h3>🎧 Ambient Music</h3>
@@ -414,6 +414,7 @@
 <br/>
 
 <img src="./assets/section-divider.svg" alt="" width="100%" />
+-->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 13 ─ LET'S CONNECT                                             -->
